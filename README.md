@@ -8,3 +8,5 @@ I then ran some quick exploratory tools on the data to identify characteristics 
 
 The final predicted values were notably accurate, with normally distributed residual values.
 
+![A magnified view of one of the ARIMA models fitted to the data, with the predicted and actual values visible together.](TSA Windspeeds.png)
+
